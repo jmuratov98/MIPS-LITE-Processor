@@ -1,0 +1,8 @@
+# Directories
+work/
+
+# Files
+MIPS.cr.mti
+MIPS.mpf
+*.bak
+
